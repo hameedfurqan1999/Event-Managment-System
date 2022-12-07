@@ -1,0 +1,17 @@
+footer {
+    background: black;
+    color: white;
+    padding: 15px 10px;
+    font-size: 0.9em;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.body-text{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
